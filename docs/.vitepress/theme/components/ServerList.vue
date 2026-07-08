@@ -329,7 +329,7 @@ import mediumZoom from 'medium-zoom'
 const props = defineProps({
   apiUrl: {
     type: String,
-    default: 'https://server-editor.mcjpg.dev/api/getjson',
+    default: 'https://server-editor-api.mcjpg.dev/api/getjson',
   },
   fallbackApiUrls: {
     type: Array,
