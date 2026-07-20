@@ -92,6 +92,12 @@ export const NAV_DATA: NavData[] = [
         title: 'Bangbang93论坛',
         desc: '十分著名的下载源国内镜像站——BMCLAPI',
         link: 'https://www.bangbang93.com',
+      },
+      {
+        icon: '/icons/nav/基岩版开发文档/bedrock.dev.png',
+        title: '繁中方塊社',
+        desc: '方塊傳承，初心未改。',
+        link: 'https://mcbbs.space/',
       }
     ],
   },
